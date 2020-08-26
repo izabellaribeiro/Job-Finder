@@ -1,7 +1,5 @@
 // aplicação para utilizar bancos relacionais com node. 
-
 const Sequelize = require('sequelize');
-
 
 //instância do sequelize que diz qual o banco utilizado
 const sequelize = new Sequelize({
@@ -10,4 +8,6 @@ const sequelize = new Sequelize({
     storage: './db/app.db'
 });
 
+
+//exportar para serem usadas fora. 
 module.exports = sequelize;

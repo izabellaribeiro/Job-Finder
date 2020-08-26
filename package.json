@@ -1,0 +1,43 @@
+ {
+  "name": "job-finder",
+  "version": "1.0.0",
+  "description": "Esse é um sistema para programadores encontrarem vagas de trabalho",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IzabellaRibeiro/Job-Finder.git"
+  },
+  "keywords": [
+    "dev",
+    "jobs",
+    "dev",
+    "oportunitys",
+    "oportunidades",
+    "de",
+    "emprego",
+    "para",
+    "programadores",
+    "trabalho",
+    "para",
+    "programador"
+  ],
+  "author": "Izabella Ribeiro de Souza Silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IzabellaRibeiro/Job-Finder/issues"
+  },
+  "homepage": "https://github.com/IzabellaRibeiro/Job-Finder#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.1.0",
+    "sequelize": "^6.3.4",
+    "sqlite3": "^5.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}

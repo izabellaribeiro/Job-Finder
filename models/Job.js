@@ -1,7 +1,7 @@
 const Sequelize = require('sequelize');
 const db = require('../db/connection');
 
-const Job = db.defire('job', {
+const Job = db.define('job', {
     title: {
         type: Sequelize.STRING, 
     },

@@ -10,7 +10,7 @@ app.listen(PORT, function(){
 })
 
 //body parser 
-app.user(bodyParser.urlencoded({extended: false}));
+app.use(bodyParser.urlencoded({extended: false}));
 
 //db connection 
 
@@ -23,7 +23,7 @@ db
     })
     .catch(err => {
         console.log("Ocorreu um erro ao conectar!")
-    })
+    });
 
 //routes 
 app.get('/', (req, res) => {

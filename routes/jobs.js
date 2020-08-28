@@ -19,5 +19,6 @@ router.post('/add', (req, res) => {
             new_job
         }
     )
-    .then(() => res.redirect('/'));
+    .then(() => res.redirect('/'))
+    .catch(err => console.log(err));
 });

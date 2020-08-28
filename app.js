@@ -29,3 +29,7 @@ db
 app.get('/', (req, res) => {
     res.send("Está funcionando!");
 })
+
+//jobs routes 
+
+app.use('/jobs', require('./routes/jobs'));

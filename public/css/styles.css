@@ -56,5 +56,11 @@
 
 #main-subtitle {
     font-size: 1rem;
-    padding: 80px;
+    padding-bottom: 80px;
+}
+
+/* form */
+
+#search-form {
+    padding: 30px 100px;
 }

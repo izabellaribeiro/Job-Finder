@@ -30,7 +30,7 @@
     border-radius: 0;
 }
 
-.nav-link.btn.btn-primary:hover, #search-form button:hover, .list-group-item a:hover {
+.nav-link.btn.btn-primary:hover, #search-form button:hover, .list-group-item a:hover, #form-box button:hover {
     background-color: #fff;
     color: #f03e3e;
     border-color: #f03e3e;
@@ -178,3 +178,13 @@
     border: 2px solid #CCC;
     background-color: #f8f9fa;
 }
+
+#form-box button {
+    height: 50px;
+    width: 200px;
+    background-color: #f03e3e;
+    border: 1px, solid, transparent;
+    border-radius: 0;
+    margin-top: 20px;
+}
+

@@ -92,6 +92,9 @@
 #job-list .list-group-item {
     margin-bottom: 8px;
     border: 1px solid #CCC;
+    padding: 15px 80px;
+    color: #212529;
+    height: 120px;
 }
 
 #job-list .list-group-item p {
@@ -102,5 +105,9 @@
 #job-list .list-group-item.new-job {
     border:none;
     background-color: #fff7cc;
+}
+
+#job-list-title {
+    margin-bottom: 35px;
 }
 

@@ -173,3 +173,8 @@
 #add-form-container form label {
     font-weight: bold;
 }
+
+#add-form-container form input, #add-form-container form textarea {
+    border: 2px solid #CCC;
+    background-color: #f8f9fa;
+}

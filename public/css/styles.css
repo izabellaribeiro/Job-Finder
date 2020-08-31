@@ -43,7 +43,7 @@
     background-color: #f7f9fc;
     border-bottom: 4px solid #dde0f4;
     margin-bottom: 30px;
-    background-image: url(../img/banner2.jpg);
+    background-color: #2a2929;
     background-position: 0 1000px;
     background-size: conver;
     color: #fff;
@@ -130,4 +130,35 @@
     background-color: #f03e3e;
     border: 1px solid transparent;
     border-radius: 0;
+}
+
+.new-job-label {
+    background-color: #ffd500;
+    color: #4d5154;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 5px 10px;
+    position: absolute;
+    right: 250px;
+    top: 40px;
+    display: none;
+}
+
+.new-job .new-job-label {
+    display: block;
+}
+
+
+/* add page */
+
+#add-form-container {
+    margin-top: 100px;
+}
+
+#form-box {
+    padding: 50px;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, .15);
+    border-radius: 4px;
+    background-color: #fff;
+    margin-bottom: 50px;
 }

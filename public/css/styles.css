@@ -68,3 +68,10 @@
 #search-form .col-md-10, #search-form .col-md-2 {
     padding: 0;
 }
+
+#search-form input, #search-form button {
+    width: 100%;
+    border-radius: 0;
+    height: 50px;
+    font-size: 18px;
+}

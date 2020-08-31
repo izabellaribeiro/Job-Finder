@@ -30,7 +30,7 @@
     border-radius: 0;
 }
 
-.nav-link.btn.btn-primary:hover {
+.nav-link.btn.btn-primary:hover, #search-form button:hover {
     background-color: #fff;
     color: #f03e3e;
     border-color: #f03e3e;
@@ -74,4 +74,10 @@
     border-radius: 0;
     height: 50px;
     font-size: 18px;
+}
+
+#search-form button {
+    color: #ffffff;
+    background-color: #f03e3e;
+    border: 1px solid transparent;
 }

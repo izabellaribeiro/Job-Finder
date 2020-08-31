@@ -162,3 +162,14 @@
     background-color: #fff;
     margin-bottom: 50px;
 }
+
+#add-form-container h2 {
+    color: #f03e3e;
+    font-weight: bold;
+    font-size: 24px;
+    margin-bottom: 30px;
+}
+
+#add-form-container form label {
+    font-weight: bold;
+}

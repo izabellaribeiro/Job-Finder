@@ -84,6 +84,11 @@
 
 /* lista */
 
+#jobs-container {
+    padding: 0 100px;
+    padding-bottom: 50px;
+}
+
 #job-list .list-group-item {
     margin-bottom: 8px;
     border: 1px solid #CCC;
@@ -98,3 +103,4 @@
     border:none;
     background-color: #fff7cc;
 }
+

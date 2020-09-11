@@ -14,7 +14,8 @@
 
 ### Como acessar?
 
-```# Clone esse repositório``
+```bash
+  # Clone esse repositório
   $ git clone https://github.com/IzabellaRibeiro/Job-Finder.git
   
   #Instale as dependências

@@ -14,11 +14,11 @@
 
 ### Como acessar?
 
-``# Clone esse repositório``
-``$ git clone https://github.com/IzabellaRibeiro/Job-Finder.git``
+```# Clone esse repositório``
+  $ git clone https://github.com/IzabellaRibeiro/Job-Finder.git
   
-``#Instale as dependências``
-``$ npm install``
+  #Instale as dependências
+  $ npm install
   
-``#Inicie``
-``$ npm run dev``
+  #Inicie
+  $ npm run dev```

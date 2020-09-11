@@ -12,4 +12,6 @@
 - HTML
 - CSS
 
-### Como começar?
+### Como acessar?
+
+``# Clone esse repositório``

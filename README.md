@@ -22,4 +22,4 @@
   $ npm install
   
   #Inicie
-  $ npm run dev```
+  $ npm run dev

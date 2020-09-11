@@ -3,7 +3,7 @@
 
 #### Qual o intuito do site? 
 
-- O site tem, como principal objetivo, o cadastro e a busca de emprego para programadores.
+- O site tem, como principal objetivo, o cadastro e a busca de emprego para profissionais da área de TI.
 
 ### :computer: Tecnologias:
 
